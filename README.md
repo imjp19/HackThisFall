@@ -14,4 +14,4 @@ Hence, in order to avoid these Sneaky Leaks from messing up live streams & even 
 - Turns the video off when you're not in frame to avoid your background conversations being overheard.
 - Mutes the microphone when it sees that you're on a phone call to prevent sensitive conversations from being leaked.   
 
-**Feel free to check out the project [here](https://editor.p5js.org/thevrajshah/sketches/7aJSL0DMd).**
+
